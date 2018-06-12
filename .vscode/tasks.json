@@ -7,7 +7,7 @@
             "label": "g++",
             "type": "shell",
             "command": "g++",
-            "args": ["-g","-std=c++11","${file}","-o","${workspaceRoot}\\${fileBasename}.exe"],
+            "args": ["-g","-std=c++11","${file}","-o","${workspaceRoot}\\${fileBasenameNoExtension}.exe"],
 
 
 

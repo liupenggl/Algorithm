@@ -10,7 +10,7 @@
             "type": "cppdbg",                         
             "request": "launch",                        
             "targetArchitecture": "x86",                
-            "program": "${workspaceRoot}\\${fileBasename}.exe",                 
+            "program": "${workspaceRoot}\\${fileBasenameNoExtension}.exe",                 
             "miDebuggerPath": "C:\\cygwin64\\bin\\gdb.exe",
             "args": [],     
             "stopAtEntry": false,                  

@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int BF(char S[ ], char T[ ]);
-\\commit to BF
+
 int main()
 {
 	char S[]="abcabcabcaccb";
